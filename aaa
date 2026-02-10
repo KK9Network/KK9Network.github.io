@@ -1,0 +1,251 @@
+[14:07:23.726][MARK][  TRSSYz  ] ----^_^----
+[14:07:23.728][MARK][  TRSSYz  ] TRSS-Yunzai v3.1.3 启动中...
+[14:07:23.728][MARK][  TRSSYz  ] https://github.com/TimeRainStarSky/Yunzai
+[14:07:25.500][INFO][  TRSSYz  ] [Chromium] C:/Program Files/Google/Chrome/Application/chrome.exe
+[14:07:25.503][INFO][  TRSSYz  ] 加载渲染后端 puppeteer
+[14:07:29.709][INFO][   Redis  ] 正在连接 redis://127.0.0.1:6378/0
+(node:21668) DeprecationWarning: 请更新 Node.js
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[14:07:29.794][MARK][  Server  ] 启动 HTTP 服务器 http://[::]:30005
+[14:07:29.796][INFO][  Plugin  ] -----------
+[14:07:29.797][INFO][  Plugin  ] 加载插件中...
+[14:07:30.089][INFO][  TRSSYz  ] ----------(*ˉ︶ˉ*)----------
+[14:07:30.089][INFO][  TRSSYz  ] 尘白禁区插件 cb-plugin 初始化
+[14:07:30.089][INFO][  TRSSYz  ] ----------(*ˉ︶ˉ*)----------
+[14:07:30.139][INFO][  TRSSYz  ] ---------?---------
+[14:07:30.139][INFO][  TRSSYz  ] Elysian-Realm-plugin载入成功!
+[14:07:30.139][INFO][  TRSSYz  ] 仓库地址 https://gitee.com/zipated/Elysian-Realm-plugin
+[14:07:30.140][INFO][  TRSSYz  ] 遵循能用就行原则
+[14:07:30.140][INFO][  TRSSYz  ] 摸了
+[14:07:30.140][INFO][  TRSSYz  ] -------------------
+[14:07:30.147][INFO][  TRSSYz  ] --------- >_< ---------
+[14:07:30.147][INFO][  TRSSYz  ] BlueArchive-plugin初始化
+[14:07:30.147][INFO][  TRSSYz  ] 阿罗娜来工作啦
+[14:07:30.147][INFO][  TRSSYz  ] 目前的阿罗娜会做的还不多
+[14:07:30.147][INFO][  TRSSYz  ] 请多多包涵哦
+[14:07:30.148][INFO][  TRSSYz  ] -----------------------
+[14:07:30.187][INFO][  TRSSYz  ] - [JUHKFF-PLUGIN] 正在载入
+[14:07:30.187][INFO][  TRSSYz  ] - [JUHKFF-PLUGIN] 如果插件更新后出现问题，可能是新的配置同步时出现错误，可以尝试删除并重装该插件
+[14:07:30.227][INFO][  TRSSYz  ] - 正在载入 NEKO-STATUS-PLUGIN
+[14:07:30.267][INFO][  TRSSYz  ] ------(ˊ·ω·ˋ)------
+[14:07:30.267][INFO][  TRSSYz  ] StarRail-plugin载入成功!
+[14:07:30.267][INFO][  TRSSYz  ] 仓库地址 https://gitee.com/hewang1an/StarRail-plugin
+[14:07:30.267][INFO][  TRSSYz  ] 插件群号: 758447726
+[14:07:30.268][INFO][  TRSSYz  ] Created By 鹤望兰
+[14:07:30.268][INFO][  TRSSYz  ] -------------------
+[14:07:30.397][INFO][  TRSSYz  ] --------- >_< ---------
+[14:07:30.397][INFO][  TRSSYz  ] 星露谷插件(sv-plugin)初始化
+[14:07:30.398][INFO][  TRSSYz  ] -----------------------
+[14:07:30.404][INFO][  TRSSYz  ] - 正在加载 TRSS 插件
+[14:07:30.652][INFO][  TRSSYz  ] ---------QAQ---------
+[14:07:30.652][INFO][  TRSSYz  ] Atlas图鉴4.3.0很高兴为您服务~
+[14:07:31.152][INFO][  TRSSYz  ] 王者荣耀插件载入中...
+[14:07:32.248][INFO][  TRSSYz  ] - 正在加载 QQBot 适配器插件
+[14:07:32.275][INFO][  TRSSYz  ] userSettingsDir 文件已创建
+[14:07:32.428][INFO][  TRSSYz  ] *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[14:07:32.428][INFO][  TRSSYz  ] ZZZ-Plugin 加载中
+[14:07:32.428][INFO][  TRSSYz  ] 仓库地址 https://github.com/ZZZure/ZZZ-plugin
+[14:07:32.428][INFO][  TRSSYz  ] Created By ZZZure Project (MIHOMO)
+[14:07:32.429][INFO][  TRSSYz  ] *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+[14:07:32.464][INFO][  TRSSYz  ] userDataFile 文件已创建
+[14:07:32.484][INFO][  TRSSYz  ] gameRecordPushFile 文件已创建
+[14:07:32.712][MARK][  TRSSYz  ] [BlueArchive]初始化配置中...
+[14:07:33.231][MARK][  TRSSYz  ] [BlueArchive]初始化配置完成!
+[14:07:33.495][INFO][  TRSSYz  ] userSettingsFile 文件已创建
+[14:07:34.345][INFO][  TRSSYz  ] - QQBot 适配器插件 加载完成
+[14:07:34.470][INFO][  TRSSYz  ] gameStatsPushSettingsFile 文件已创建
+[14:07:35.036][INFO][  TRSSYz  ] - 正在载入 WAVES-PLUGIN
+[14:07:35.148][MARK][  TRSSYz  ] [WAVES PLUGIN] 同步了 0 个用户信息
+[14:07:37.606][INFO][  TRSSYz  ] - NEKO-STATUS-PLUGIN 载入成功
+[14:07:37.606][INFO][  TRSSYz  ] - 欢迎加入新组织【貓娘樂園🍥🏳️‍⚧️】（群号 707331865）
+[14:07:39.660][WARN][  TRSSYz  ] [memz-plugin] MEMZ-API服务未启用
+[14:07:39.661][INFO][  TRSSYz  ] MEMZ插件载入中...
+[14:07:39.869][MARK][  TRSSYz  ]
+██████╗ ██╗   ██╗██████╗  ██████╗
+██╔══██╗██║   ██║██╔══██╗██╔════╝
+██████╔╝██║   ██║██████╔╝██║  ███╗
+██╔═══╝ ██║   ██║██╔══██╗██║   ██║
+██║     ╚██████╔╝██████╔╝╚██████╔╝
+╚═╝      ╚═════╝ ╚═════╝  ╚═════╝
+
+[14:07:39.870][MARK][  TRSSYz  ] [PUBG-Plugin] 加载模块: bind
+[14:07:39.870][MARK][  TRSSYz  ] [PUBG-Plugin] 加载模块: help
+[14:07:39.871][MARK][  TRSSYz  ] [PUBG-Plugin] 加载模块: match
+[14:07:39.871][MARK][  TRSSYz  ] [PUBG-Plugin] 加载模块: match_details
+[14:07:39.871][MARK][  TRSSYz  ] [PUBG-Plugin] 加载模块: player
+[14:07:39.871][MARK][  TRSSYz  ] [PUBG-Plugin] 加载模块: update
+[14:07:39.876][MARK][  TRSSYz  ] [PUBG-Plugin] 开始清理临时文件...
+[14:07:40.121][MARK][  TRSSYz  ] [PUBG-Plugin] 临时文件清理完成，共清理 0 个文件
+[14:07:40.122][MARK][  TRSSYz  ] [PUBG-Plugin]------绝地求生数据查询------
+[14:07:40.122][MARK][  TRSSYz  ] [PUBG-Plugin] 绝地求生数据查询插件载入成功~
+[14:07:40.122][MARK][  TRSSYz  ] [PUBG-Plugin] 插件加载耗时: 251.97ms
+[14:07:40.122][MARK][  TRSSYz  ] [PUBG-Plugin] 已加载 6 个功能模块
+[14:07:40.122][MARK][  TRSSYz  ] [PUBG-Plugin] 输入 #pubg帮助 查看功能说明
+[14:07:40.122][MARK][  TRSSYz  ] [PUBG-Plugin]-------------------------
+[14:07:41.407][MARK][  TRSSYz  ] sv-plugin加载成功
+[14:07:42.482][INFO][  TRSSYz  ] ---------=.=---------
+[14:07:42.483][INFO][  TRSSYz  ] 土块插件2.0.1载入成功~qwq
+[14:07:42.483][INFO][  TRSSYz  ] 作者-SunRyK曉K & 地球生物
+[14:07:42.483][INFO][  TRSSYz  ] ---------------------
+[14:07:42.564][INFO][  TRSSYz  ] ---------ヾ(✿ﾟ▽ﾟ)ノ---------
+[14:07:42.565][INFO][  TRSSYz  ] 互动插件载入成功！
+[14:07:42.565][INFO][  TRSSYz  ] Created By 千奈千祁
+[14:07:42.565][INFO][  TRSSYz  ] -----------------------------
+load Uid Data Done...
+[14:07:44.750][INFO][  TRSSYz  ] [phi-plugin]初始化曲目信息
+[14:07:45.814][INFO][  TRSSYz  ] ----------------------
+[14:07:45.815][INFO][  TRSSYz  ] 王者荣耀插件载入完成
+[14:07:45.815][INFO][  TRSSYz  ] 成功加载：7 个
+[14:07:45.815][INFO][  TRSSYz  ] 加载失败：0 个
+[14:07:45.815][INFO][  TRSSYz  ] 总耗时：14663 毫秒
+[14:07:45.816][INFO][  TRSSYz  ] ----------------------
+[14:07:46.634][INFO][  TRSSYz  ] Atlas载入库文件：github原神成功！
+[14:07:46.650][INFO][  TRSSYz  ] Atlas载入库文件：github星铁成功！
+[14:07:46.664][INFO][  TRSSYz  ] Atlas载入库文件：github绝区零成功！
+[14:07:46.680][INFO][  TRSSYz  ] Atlas载入库文件：原神成功！
+[14:07:46.689][INFO][  TRSSYz  ] Atlas载入库文件：星铁成功！
+[14:07:46.698][INFO][  TRSSYz  ] Atlas载入库文件：绝区零成功！
+[14:07:46.769][INFO][  TRSSYz  ] - TRSS 插件 加载完成
+[14:07:48.349][INFO][  TRSSYz  ] [phi-plugin]初始化曲目信息完成
+[14:07:48.350][MARK][  TRSSYz  ] -------φ^_^φ-------
+[14:07:48.350][MARK][  TRSSYz  ] 正在载入phi插件...
+[14:07:48.405][INFO][  TRSSYz  ] ---------^_^---------
+[14:07:48.405][INFO][  TRSSYz  ] 图鉴插件1.2.9初始化~
+[14:07:48.857][MARK][  TRSSYz  ] [Handler][Reg]: [ZZZ-Plugin][zzz.tool.panel]
+[14:07:48.858][MARK][  TRSSYz  ] [Handler][Reg]: [ZZZ-Plugin][zzz.tool.panelList]
+[14:07:53.146][INFO][  TRSSYz  ] - [JUHKFF-PLUGIN] 载入成功
+[14:07:53.769][INFO][  TRSSYz  ] [Chromium] C:/Program Files/Google/Chrome/Application/chrome.exe
+[14:07:53.772][MARK][  TRSSYz  ] -----------------
+[14:07:53.772][MARK][  TRSSYz  ] groupSetting载入完毕
+[14:07:54.144][INFO][  TRSSYz  ] - WAVES-PLUGIN 载入成功
+[14:07:54.145][INFO][  TRSSYz  ] - 欢迎加入新组织【貓娘樂園🍥🏳️‍⚧️】（群号 707331865）
+[14:08:01.465][MARK][  TRSSYz  ] BlueArchive-plugin加载成功
+[14:08:01.466][INFO][  TRSSYz  ] ***********************
+[14:08:01.466][INFO][  TRSSYz  ] MEMZ插件载入完成
+[14:08:01.467][INFO][  TRSSYz  ] 成功加载：15 个
+[14:08:01.467][INFO][  TRSSYz  ] 加载失败：0 个
+[14:08:01.467][INFO][  TRSSYz  ] 总耗时：21805 毫秒
+[14:08:01.467][INFO][  TRSSYz  ] ***********************
+[14:08:01.770][WARN][  TRSSYz  ] [memz-plugin]自动更新已关闭
+[14:08:03.489][INFO][  TRSSYz  ] ---------^_^---------
+[14:08:03.490][INFO][  TRSSYz  ] 喵喵插件2.5.16初始化~
+[14:08:04.552][INFO][  TRSSYz  ] [Chromium] C:/Program Files/Google/Chrome/Application/chrome.exe
+[14:08:07.618][INFO][  TRSSYz  ] puppeteer Chromium 启动中...
+[14:08:09.433][MARK][  TRSSYz  ] [Guoba] 当前运行在TRSS环境，已共享端口号
+[14:08:09.659][MARK][  TRSSYz  ] 正在测试API链接...
+[14:08:09.925][MARK][  TRSSYz  ] --------------------------------------
+[14:08:09.926][MARK][  TRSSYz  ] |phi插件v1.0.0载入完成~
+[14:08:09.926][MARK][  TRSSYz  ] |作者：@Cartong
+[14:08:09.926][MARK][  TRSSYz  ] |仓库地址：
+[14:08:09.926][MARK][  TRSSYz  ] |https://github.com/Catrong/phi-plugin
+[14:08:09.926][MARK][  TRSSYz  ] |本项目云存档功能由 7aGiven/PhigrosLibrary 改写而来
+[14:08:09.927][MARK][  TRSSYz  ] |感谢文酱的帮助！
+[14:08:09.927][MARK][  TRSSYz  ] --------------------------------------
+[14:08:10.203][MARK][  TRSSYz  ] API地址测试成功！phi-plugin-api 0.1.0
+[14:08:10.220][MARK][  TRSSYz  ] [phi修改配置文件][config][config]
+[14:08:11.520][MARK][  TRSSYz  ] ################################################################
+[14:08:11.528][MARK][  TRSSYz  ] # [Guoba] 启动成功 >_< 耗时: 2011ms #
+[14:08:11.532][INFO][  TRSSYz  ] # 登录地址：                                                   
+[14:08:11.574][MARK][  TRSSYz  ] [Guoba] 欢迎使用锅巴插件，当前版本：1.4.1
+[14:08:12.115][INFO][  TRSSYz  ] puppeteer Chromium 启动成功 ws://127.0.0.1:45935/devtools/browser/8dadd3bc-2922-4552-94be-6421bb4f1db5
+[14:08:13.353][INFO][  TRSSYz  ] ------------QAQ------------
+[14:08:13.354][INFO][  TRSSYz  ] liangshi伤害计算加载成功
+[14:08:13.354][INFO][  TRSSYz  ] 如有计算错误可通过 #计算反馈 反馈
+[14:08:13.354][INFO][  TRSSYz  ] ---------------------------
+[14:08:13.705][MARK][  TRSSYz  ] [liangshi]预设面板自动刷新完成
+[14:08:13.747][INFO][  Plugin  ] 加载定时任务[17个]
+[14:08:13.747][INFO][  Plugin  ] 加载插件[282个]
+[14:08:13.750][INFO][ Listener ] -----------
+[14:08:13.750][INFO][ Listener ] 加载监听事件中...
+[14:08:13.801][INFO][ Listener ] 加载监听事件[5个]
+[14:08:13.803][INFO][  Adapter ] -----------
+[14:08:13.803][INFO][  Adapter ] 加载适配器中...
+[14:08:14.209][MARK][   stdin  ] 标准输入(stdin) 已连接
+[14:08:17.697][MARK][3889058470] [CLIENT] 鉴权通过
+[14:08:17.698][INFO][3889058470] connect to 楷de多功能机器人(15778936178242655224)
+[14:08:17.778][MARK][3889058470] [CLIENT] 连接成功
+[14:08:17.897][MARK][3889058470] QQBot(QQBot) qq-group-bot v1.1.0 楷de多功能机器人 已连接
+[14:08:17.899][INFO][  Adapter ] 加载适配器[7个]
+[14:08:17.900][INFO][ WebSocket] 连接地址：ws://localhost:30005/[GSUIDCore,ComWeChat,OPQBot,OneBotv11]
+
+以上是TRSS-yunzai
+以下是三个nonebot2后端加一起
+
+02-10 21:43:58 [SUCCESS] nonebot | Succeeded to load plugin "echo" from "nonebot.plugins.echo"
+02-10 21:43:58 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_sticker_saver"
+02-10 21:43:58 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_saa"
+02-10 21:43:58 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_analysis_bilibili"
+02-10 21:43:58 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_alconna:uniseg" from "nonebot_plugin_alconna.uniseg"
+02-10 21:43:58 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_alconna"
+02-10 21:43:58 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_session"
+02-10 21:43:58 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_userinfo"
+02-10 21:44:03 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_localstore"
+02-10 21:44:03 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_orm"
+02-10 21:44:03 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_htmlrender"
+02-10 21:44:03 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_boardgame"
+02-10 21:44:04 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_apscheduler"
+02-10 21:44:04 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_today_in_history"
+02-10 21:44:04 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_summon"
+02-10 21:44:04 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_wordle"
+02-10 21:44:05 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_pvz"
+02-10 21:44:05 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_session"
+02-10 21:44:05 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_kawaii_status"
+02-10 21:44:05 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_waiter"
+02-10 21:44:05 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_whateat_pic"
+02-10 21:44:05 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_localstore"
+02-10 21:44:05 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_saa"
+02-10 21:44:05 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_treehelp"
+02-10 21:44:05 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_status"
+02-10 21:44:05 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_apscheduler"
+02-10 21:44:05 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_session_orm"
+02-10 21:44:10 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_memes"
+02-10 21:44:10 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_minesweeper"
+02-10 21:44:10 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_today_waifu"
+02-10 21:44:10 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_heweather"
+02-10 21:44:10 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_userinfo"
+02-10 21:44:10 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_chess"
+02-10 21:44:10 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_htmlrender"
+02-10 21:44:10 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_date_name"
+02-10 21:44:10 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_alconna"
+02-10 21:44:10 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_gscode"
+02-10 21:44:10 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_sky"
+02-10 21:44:11 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_handle"
+02-10 21:44:11 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_kfcrazy"
+02-10 21:44:11 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_cchess"
+02-10 21:44:11 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_eventmonitor"
+02-10 21:44:11 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_web_bottle"
+02-10 21:44:11 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_what2eat"
+02-10 21:44:11 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_simplemusic"
+02-10 21:44:11 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_memes_api"
+02-10 21:44:11 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_datastore"
+02-10 21:44:11 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_bottle"
+02-10 21:43:41 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_word_bank2"
+02-10 21:43:41 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_localstore"
+02-10 21:43:41 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_russian_ban"
+02-11 02:27:20 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_maimai"
+02-11 02:27:20 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_localstore"
+02-11 02:27:21 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_tortoise_orm"
+02-11 02:27:21 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_alconna"
+02-11 02:27:21 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_session"
+02-11 02:27:21 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_apscheduler"
+02-11 02:27:21 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_beatsaberscore"
+02-11 02:27:21 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_antirecall"
+2026-02-11 02:27:21.780 | INFO     | nonebot_plugin_bilifan:<module>:29 - data/bilifan
+2026-02-11 02:27:21.782 | INFO     | nonebot_plugin_bilifan:<module>:26 - 已检测到软依赖nonebot_plugin_apscheduler, 开启定时任务功能
+2026-02-11 02:27:21.833 | SUCCESS  | nonebot:load_plugin:188 - Succeeded to load plugin "nonebot_plugin_bilifan"
+2026-02-11 02:27:22.413 | SUCCESS  | nonebot:load_plugin:188 - Succeeded to load plugin "nonebot_plugin_hypixel"
+2026-02-11 02:27:22.456 | SUCCESS  | nonebot:load_plugin:188 - Succeeded to load plugin "nonebot_plugin_apexranklookup"
+2026-02-11 02:27:22.595 | SUCCESS  | nonebot:load_plugin:188 - Succeeded to load plugin "nonebot_plugin_uninfo"
+2026-02-11 02:27:23.010 | SUCCESS  | nonebot:load_plugin:188 - Succeeded to load plugin "nonebot_plugin_htmlrender"
+2026-02-11 02:27:23.070 | SUCCESS  | nonebot:load_plugin:188 - Succeeded to load plugin "nonebot_plugin_osu_match_monitor"
+2026-02-11 02:27:23.070 | SUCCESS  | nonebot:load_plugin:188 - Succeeded to load plugin "nonebot_plugin_apscheduler"
+2026-02-11 02:27:23.071 | SUCCESS  | nonebot:load_plugin:188 - Succeeded to load plugin "nonebot_plugin_localstore"
+2026-02-11 02:27:26.225 | SUCCESS  | nonebot:load_plugin:188 - Succeeded to load plugin "nonebot_plugin_orm"
+2026-02-11 02:27:26.339 | SUCCESS  | nonebot:load_plugin:188 - Succeeded to load plugin "nonebot_plugin_user"
+2026-02-11 02:27:26.396 | SUCCESS  | nonebot:load_plugin:188 - Succeeded to load plugin "nonebot_plugin_wearskirt"
+2026-02-11 02:27:31.328 | SUCCESS  | nonebot_plugin_tortoise_orm:add_model:109 - 数据库: 添加模型: nonebot_plugin_osubot.database.models
+2026-02-11 02:27:31.339 | SUCCESS  | nonebot:load_plugin:188 - Succeeded to load plugin "nonebot_plugin_osubot"
+2026-02-11 02:27:31.512 | SUCCESS  | nonebot:load_plugin:188 - Succeeded to load plugin "nonebot_plugin_kurogames"
+2026-02-11 02:27:31.571 | SUCCESS  | nonebot:load_plugin:188 - Succeeded to load plugin "mai2_pcount"
+2026-02-11 02:27:31.689 | SUCCESS  | nonebot:load_plugin:188 - Succeeded to load plugin "nonebot_plugin_lxns_maimai"
+2026-02-11 02:27:31.902 | SUCCESS  | nonebot:load_plugin:188 - Succeeded to load plugin "nonebot_plugin_mai_arcade"
